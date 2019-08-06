@@ -6,6 +6,12 @@ https://github.com/bpmn-io
 https://bpmn.io/toolkit/bpmn-js/
 
 
+examples:
+
+https://bpmn.io/toolkit/bpmn-js/examples/
+
+
+
 > vue-bpmn
 
 ## Build Setup
