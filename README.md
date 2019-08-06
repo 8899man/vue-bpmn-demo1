@@ -1,5 +1,11 @@
 # vue-bpmn-demo
 https://www.jianshu.com/p/5ff652279a8d
+
+https://github.com/bpmn-io
+
+https://bpmn.io/toolkit/bpmn-js/
+
+
 > vue-bpmn
 
 ## Build Setup
